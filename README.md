@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassin Khaled</h1>
 <h3 align="center">A curious Computer Engineer, exploring different paths to shape my career.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinozz10&label=Profile%20views&color=0e75b6&style=flat" alt="sinozz10" /> </p>
-
-- 🔭 I’m currently working on [Inventory-Managment System](https://github.com/Sinozz10/Inventory-Managment-System)
-
-- 🌱 I’m currently learning **AI-ML**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sinozz10&label=Profile%20views&color=0e75b6&style=flat" alt="sinozz10" /> </p>
 
 - 📫 How to reach me **YassinKhaled911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p9YDtp8MPKBnsK25_ypZPCE49i9mmdzf/view?usp=sharing](https://drive.google.com/file/d/1p9YDtp8MPKBnsK25_ypZPCE49i9mmdzf/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1p9YDtp8MPKBnsK25_ypZPCE49i9mmdzf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
