@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinozz10&label=Profile%20views&color=0e75b6&style=flat" alt="sinozz10" /> </p>
 
-- 📫 How to reach me **YassinKhaled911@gmail.com**
+- 📫 How to reach me **[Gmail](YassinKhaled911@gmail.com)**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1p9YDtp8MPKBnsK25_ypZPCE49i9mmdzf/view?usp=sharing)
 
