@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **YassinKhaled911@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1p9YDtp8MPKBnsK25_ypZPCE49i9mmdzf/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XA_N1jekLqT8sT39EflwAgbV5JYW1QYl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
